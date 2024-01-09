@@ -21,7 +21,7 @@ Ensure your system meets the following requirements:
 ## How to Run
 1. **Clone or Download the Script:**
    ```bash
-   git clone https://github.com/yourusername/network-redundancy-script.git
+   git clone https://github.com/1999AZZAR/network-redundancy.git
    ```
    Replace the URL with the actual path if you are downloading manually.
 
